@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Felipe! 👋
+### Sou estudante de Engenharia da Computação no UNASP-SP.
 
-<!--
-**neofelipecardoso/neofelipecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+### Principais linguagens de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=pytorch,java,cs,c)](https://skillicons.dev)
+
+### Principais bibliotecas e frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,fastapi,tensorflow)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neofelipecardoso&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contato
+
+<div style="display: flex">
+<a href="https://www.linkedin.com/in/felipe-rodrigo-paix%C3%A3o-cardoso-0a5a16273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
+
+#### Gmail
+![My Skills](https://skillicons.dev/icons?i=gmail) <br>
+felipecardoso337@gmail.com
+<br>
+#### uso Neovim e pretendo usar NixOS
+[![My Skills](https://skillicons.dev/icons?i=neovim,nix)](https://skillicons.dev)
