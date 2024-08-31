@@ -3,13 +3,13 @@
 
 --- 
 
-### Principais linguagens de programação
+### Principais linguagens de programação 🌠
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,java,cs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,java,cs,c)](https://skillicons.dev)
 
-### Principais bibliotecas e frameworks
+### Principais bibliotecas e frameworks 🌌
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,fastapi,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,fastapi,tensorflow,rails)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neofelipecardoso&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
