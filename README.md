@@ -23,5 +23,5 @@
 ![My Skills](https://skillicons.dev/icons?i=gmail) <br>
 felipecardoso337@gmail.com
 <br>
-#### uso Neovim e pretendo usar NixOS
+#### uso Neovim e NixOS
 [![My Skills](https://skillicons.dev/icons?i=neovim,nix)](https://skillicons.dev)
